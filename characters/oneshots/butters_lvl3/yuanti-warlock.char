@@ -1,0 +1,143 @@
+Name:
+
+Classes:
+    Fathomless Warlock - 3
+
+Background:
+	Marine
+		Skill Proficiencies: Athletics, Survival
+		Tool Proficiencies: Vehicles (water, land)
+		Equipment: A dagger that belonged to a fallen comrade, a folded flag emblazoned with the symbol of your ship or company, a set of traveler's clothes, and a belt pouch containing 10 gp
+		Feature: Steady
+			You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march (see "Travel Pace" in chapter 8 of the Player's Handbook). Additionally, you can automatically find a safe route to land a boat on shore, provided such a route exists.
+		Hardship Endured
+			Nearly Drowned. You hid underwater to avoid detection by enemies and held your breath for an extremely long time. Just before you would have died, you had a revelation about your existence.
+		
+	Characteristics:
+		I become cantankerous and quiet in the rain.
+		Perseverance. No injury or obstacle can turn me from my goal. (Any)
+		My commander betrayed my unit, and I will have revenge.
+		I sometimes stay up all night listening to the ghosts of my fallen unit.
+
+Appearance:
+
+Stats:
+	Str: 9
+	Dex: 18
+	Con: 14
+	Int: 11
+	Wis: 11
+	Cha: 19
+
+Languages:
+
+Race: Yuan-ti
+
+Proficiencies:
+
+Spells & Class Features:
+
+	Eldritch Invocations:
+		Agonizing Blast
+			When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.
+		Armor of Shadows
+			You can cast mage armor on yourself at will, without expending a spell slot or material components.
+
+	Pact Boon:
+		Pact of the Chain
+			You learn the find familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
+			When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
+			Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.
+
+	Tentacle of the Deeps
+		1st-level Fathomless feature
+		You can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.
+		When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to 2d8.
+		As a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack.
+		You can summon the tentacle a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+	Gift of the Sea
+		1st-level Fathomless feature
+		You gain a swimming speed of 40 feet, and you can breathe underwater.
+
+	Spells:
+		Cha (+4)
+		Cantrips(2):
+			Eldritch Blast
+				Casting Time: 1 action
+				Range: 120 feet
+				Components: V, S
+				Duration: Instantaneous
+				Description:
+					A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.
+			Poison Spray
+				Casting Time: 1 action
+				Range: 10 feet
+				Components: V, S
+				Duration: Instantaneous
+				Description:
+					You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
+
+		Spells Known:
+			Spell Level - 2
+			Spell Slots - 2 
+			Spells Known - 4
+				Shatter
+					2nd-level evocation
+					Casting Time: 1 action
+					Range: 60 feet
+					Components: V, S, M (a chip of mica)
+					Duration: Instantaneous
+					Description:
+						A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
+						A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
+						At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+				Cause Fear
+					1st-level necromancy
+					Casting Time: 1 action
+					Range: 60 feet
+					Components: V
+					Duration: Concentration, up to 1 minute
+					Description:
+						You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+						At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+				Mirror Image
+					2nd-level illusion
+					Casting Time: 1 action
+					Range: Self
+					Components: V, S
+					Duration: 1 minute
+					Description:
+						Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.
+						Each time a creature targets you with an attack during the spell's duration, roll a d20 to determine whether the attack instead targets one of your duplicates.
+						If you have three duplicates, you must roll a 6 or higher to change the attack's target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.
+						A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.
+						A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
+				Misty Step
+					2nd-level conjuration
+					Casting Time: 1 bonus action
+					Range: Self
+					Components: V
+					Duration: Instantaneous
+					Description:
+						Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
+
+		Bonus:
+			Mage Armor (Armor of Shadows)				
+				Casting Time: at will
+				Range: Self
+				Components: None
+				Duration: 8 hours
+				You touch yourself while not wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+
+Equipment:
+
+	Staff of the Adder
+		Staff, weapon, uncommon (requires attunement by a cleric, druid, or warlock)
+		Major tier
+		Simple weapon, melee weapon
+			You can use a bonus action to speak this staff's command word and make the head of the staff become that of an animate poisonous snake for 1 minute. By using another bonus action to speak the command word again, you return the staff to its normal inanimate form.
+			You can make a melee attack using the snake head, which has a reach of 5 feet. Your proficiency bonus applies to the attack roll. On a hit, the target takes 1d6 piercing damage and must succeed on a DC 15 Constitution saving throw or take 3d6 poison damage.
+			The snake head can be attacked while it is animate. It has an Armor Class of 15 and 20 hit points. If the head drops to 0 hit points, the staff is destroyed. As long as it's not destroyed, the staff regains all lost hit points when it reverts to its inanimate form.
+			Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
+

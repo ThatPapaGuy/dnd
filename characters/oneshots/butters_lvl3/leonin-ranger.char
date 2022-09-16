@@ -1,0 +1,240 @@
+Name:
+
+Classes:
+    Fathomless Warlock - 3
+
+Background:
+    Feylost
+        Skill Proficiencies: Deception, Survival
+        Tool Proficiencies: One type of musical instrument
+        Languages: One of your choice of Elvish, Gnomish, Goblin, or Sylvan
+        Equipment: A musical instrument (one of your choice), a set of traveler's clothes, three trinkets (each determined by rolling on the Feywild Trinkets table), and a pouch containing 8 gp
+
+        Feature: Feywild Connection
+            Your mannerisms and knowledge of fey customs are recognized by natives of the Feywild, who see you as one of their own. Because of this, friendly Fey creatures are inclined to come to your aid if you are lost or need help in the Feywild.
+
+        Fey Mark
+            You were transformed in some small way by your stay in the Feywild and gained a fey mark, determined by rolling on the Fey Mark table.
+            Your hair is made of vines or brambles and grows back to normal length within 1 hour of being cut.
+
+        Feywild Visitor
+            Whenever you're sound asleep or in a deep trance during a long rest, a spirit of the Feywild might pay you a visit, if the DM wishes it. Determine the spirit's form by rolling on the Feywild Visitor table. No harm ever comes to you as a result of such visits, which can last for minutes or hours, and you remember each visit when you wake up. Conversations that occur with a visitor can contain any number of things, from messages and insights to nonsense and red herrings, at the DM's discretion. Such conversations are always conducted in a language you can understand, even if the Feywild visitor can't speak that language normally. (Dryad) 
+
+Appearance:
+
+Stats:
+	Str: 11
+	Dex: 12
+	Con: 12
+	Int: 11
+	Wis: 20
+	Cha: 10
+
+Languages:
+
+Race: 
+    Leonin
+        Ability Scores: +2; +1
+        Size: Medium
+        Speed: 35 ft.
+        Age. Leonin mature and age at about the same rate as humans.
+        Alignment. Leonin tend toward good alignments. Leonin who are focused on the pride lean toward lawful good.
+        Size. Leonin are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium.
+        Darkvision. You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+        Claws. Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+        Hunter's Instincts. You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival.
+        Daunting Roar. As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.
+        Languages. You can speak, read, and write Common and Leonin.
+
+Proficiencies:
+
+Spells & Class Features:
+
+    Favored Enemy
+        Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
+
+        Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.
+
+        You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+
+        When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
+
+        You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
+
+    Favored Foe
+        1st-level ranger optional feature, which replaces the Favored Enemy feature and works with the Foe Slayer feature
+
+        When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).
+
+        The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by 1d4.
+
+        You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+        This feature's extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level.
+
+    Natural Explorer
+        You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, (mountain), swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you're proficient in.
+
+        While traveling for an hour or more in your favored terrain, you gain the following benefits:
+            Difficult terrain doesn't slow your group's travel.
+            Your group can't become lost except by magical means.
+            Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+            If you are traveling alone, you can move stealthily at a normal pace.
+            When you forage, you find twice as much food as you normally would.
+            While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+            You choose additional favored terrain types at 6th and 10th level.
+
+    Fighting Style
+        At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+        Druidic Warrior
+            You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
+
+
+
+
+
+
+
+
+
+        
+        Spells:
+            Wis (+5)
+            Druid Cantrips(2):
+
+            Spells Known:
+                Spell Level - 2
+                Spell Slots - 2 
+                Spells Known - 4
+                    Shatter
+                        2nd-level evocation
+                        Casting Time: 1 action
+                        Range: 60 feet
+                        Components: V, S, M (a chip of mica)
+                        Duration: Instantaneous
+                        Description:
+                            A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
+                            A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
+                            At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+                    Cause Fear
+                        1st-level necromancy
+                        Casting Time: 1 action
+                        Range: 60 feet
+                        Components: V
+                        Duration: Concentration, up to 1 minute
+                        Description:
+                            You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+                            At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+                    Mirror Image
+                        2nd-level illusion
+                        Casting Time: 1 action
+                        Range: Self
+                        Components: V, S
+                        Duration: 1 minute
+                        Description:
+                            Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.
+                            Each time a creature targets you with an attack during the spell's duration, roll a d20 to determine whether the attack instead targets one of your duplicates.
+                            If you have three duplicates, you must roll a 6 or higher to change the attack's target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.
+                            A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.
+                            A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
+                    Misty Step
+                        2nd-level conjuration
+                        Casting Time: 1 bonus action
+                        Range: Self
+                        Components: V
+                        Duration: Instantaneous
+                        Description:
+                            Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
+
+            Bonus:
+                Mage Armor (Armor of Shadows)				
+                    Casting Time: at will
+                    Range: Self
+                    Components: None
+                    Duration: 8 hours
+                    You touch yourself while not wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+
+    Fey Wanderer
+        A fey mystique surrounds you, thanks to the boon of an archfey, the shining fruit you ate from a talking tree, the magic spring you swam in, or some other auspicious event. However you acquired your fey magic, you are now a Fey Wanderer, a ranger who represents both the mortal and the fey realms. As you wander the multiverse, your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.
+
+    Dreadful Strikes
+        3rd-level Fey Wanderer feature
+        You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra 1d4 psychic damage to the target, which can take this extra damage only once per turn.
+        The extra damage increases to 1d6 when you reach 11th level in this class.
+
+    Fey Wanderer Magic
+        3rd-level Fey Wanderer feature
+        You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+        Fey Wanderer Spell - Charm Person
+
+    Feywild Gifts
+        You also possess a preternatural blessing from a fey ally or a place of fey power. Fresh, seasonal flowers sprout from your hair each dawn.
+
+    Otherworldly Glamour
+        3rd-level Fey Wanderer feature
+        Your fey qualities give you a supernatural charm. As a result, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).
+        In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.
+
+    Primeval Awareness
+        Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
+
+	Spells:
+		Wis (+5)
+		Druidic Cantrips(2):
+			Shillelagh
+                Transmutation cantrip
+                Casting Time: 1 bonus action
+                Range: Touch
+                Components: V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)
+                Duration: 1 minute
+                The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.
+            Thorn Whip
+                Transmutation cantrip
+                Casting Time: 1 action
+                Range: 30 feet
+                Components: V, S, M (the stem of a plant with thorns)
+                Duration: Instantaneous
+                You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.
+		Spells Known:
+			Spell Level - 1
+			Spell Slots - 3
+			Spells Known - 3
+                Absorb Elements
+                    1st-level abjuration
+                    Casting Time: 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage
+                    Range: Self
+                    Components: S
+                    Duration: 1 round
+                    The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
+                Hunter's Mark
+                    1st-level divination
+                    Casting Time: 1 bonus action
+                    Range: 90 feet
+                    Components: V
+                    Duration: Concentration, up to 1 hour
+                    You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
+                Goodberry
+                    1st-level transmutation
+                    Casting Time: 1 action
+                    Range: Touch
+                    Components: V, S, M (a sprig of mistletoe)
+                    Duration: Instantaneous
+                    Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+				
+		Bonus:
+            Charm Person
+                1st-level enchantment
+                Casting Time: 1 action
+                Range: 30 feet
+                Components: V, S
+                Duration: 1 hour
+                You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
+			
+Equipment:
+    +1 Quarterstaff
+        Weapon, uncommon
+        Major tier
+        Simple weapon, melee weapon
+        4 lb.	1d6 bludgeoning - versatile (1d8)
+        You have a +1 bonus to attack and damage rolls made with this magic weapon.
+        Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.

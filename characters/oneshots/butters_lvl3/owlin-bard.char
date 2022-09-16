@@ -1,0 +1,185 @@
+Name:
+
+Classes:
+	College of Glamour Bard - 3
+
+Background:
+
+	Entertainer
+		Skill Proficiencies: Acrobatics, Performance
+		Tool Proficiencies: Disguise kit, one type of musical instrument
+		Equipment: A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), costume clothes, and a belt pouch containing 15 gp
+		Feature: By Popular Demand
+			You can always find a place to perform, usually in an inn or tavern but possibly with a circus, at a theater, or even in a noble's court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.
+		Specialty
+			A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer. (Instrumentalist)
+
+	Characteristics:
+		Personality Trait: I know a story relevant to almost every situation.
+		Ideal: Creativity. The world is in need of new ideas and bold action. (Chaotic)
+		Bond: I idolize a hero of the old tales and measure my deeds against that person's.
+		Flaw: I'm a sucker for a pretty face.
+
+Appearance:
+
+Stats:
+	Str 11
+	Dex 16
+	Con 14
+	Int 11
+	Wis 12
+	Cha 18
+
+Languages:
+
+Race:
+	Owlin
+		Ability Scores: Choose one of: (a) Choose any +2; choose any other +1 (b) Choose any +1; choose any other +1; choose any other +1
+		Size: Small or Medium
+		Speed: 30 ft., fly equal to your walking speed
+		Size. You are Medium or Small. You choose the size when you select this race.
+		Darkvision. You can see in dim light within 120 feet of yourself as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+		Flight. Thanks to your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor.
+		Silent Feathers. You have proficiency in the Stealth skill.
+		Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+
+Proficiencies:
+
+Spells & Class Features:
+
+	Bardic Inspiration
+		You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
+		Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
+		You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+
+	Spellcasting Focus
+		You can use a musical instrument as a spellcasting focus for your bard spells.
+
+	Jack of All Trades
+		Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
+
+	Song of Rest (d6)
+		Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points.
+		The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
+
+	Magical Inspiration
+		2nd-level bard optional feature
+		If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.
+
+Bard College
+	College of Glamour
+		The College of Glamour is the home of bards who mastered their craft in the vibrant realm of the Feywild or under the tutelage of someone who dwelled there. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others.
+		The bards of this college are regarded with a mixture of awe and fear. Their performances are the stuff of legend. These bards are so eloquent that a speech or song that one of them performs can cause captors to release the bard unharmed and can lull a furious dragon into complacency. The same magic that allows them to quell beasts can also bend minds. Villainous bards of this college can leech off a community for weeks, misusing their magic to turn their hosts into thralls. Heroic bards of this college instead use this power to gladden the downtrodden and undermine oppressors.
+
+		Mantle of Inspiration
+			When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that imbues your allies with vigor and speed.
+			As a bonus action, you can expend one use of your Bardic Inspiration to grant yourself a wondrous appearance. When you do so, choose a number of creatures you can see and that can see you within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one). Each of them gains 5 temporary hit points. When a creature gains these temporary hit points, it can immediately use its reaction to move up to its speed, without provoking opportunity attacks.
+			The number of temporary hit points increases when you reach certain levels in this class, increasing to 8 at 5th level, 11 at 10th level, and 14 at 15th level.
+		Enthralling Performance
+			Starting at 3rd level, you can charge your performance with seductive, fey magic.
+			If you perform for at least 1 minute, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who talks to it, and it hinders anyone who opposes you, although it avoids violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
+			If a target succeeds on its saving throw, the target has no hint that you tried to charm it.
+			Once you use this feature, you can't use it again until you finish a short or long rest.
+		Expertise
+			At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+
+	Spells:
+		Cha
+		Spell slots:
+			Level 1 : 4
+			Level 2 : 2 
+		
+		Cantrips(2):
+
+			Mage Hand
+				Conjuration cantrip
+				Casting Time: 1 action
+				Range: 30 feet
+				Components: V, S
+				Duration: 1 minute
+				A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+				You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+				The hand can't attack, activate magic items, or carry more than 10 pounds.
+
+			Vicious Mockery
+				Enchantment cantrip
+				Casting Time: 1 action
+				Range: 60 feet
+				Components: V
+				Duration: Instantaneous
+				You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+				This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+		Spells Known (6):
+
+			Level 1:
+
+				Sleep
+					1st-level enchantment
+					Casting Time: 1 action
+					Range: 90 feet
+					Components: V, S, M (a pinch of fine sand, rose petals, or a cricket)
+					Duration: 1 minute
+					This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect. Creatures within 20 feet of a point you choose within range are affected in ascending order of their current hit points (ignoring unconscious creatures).
+					Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
+					Undead and creatures immune to being charmed aren't affected by this spell.
+					At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
+
+				Silvery Barbs
+					1st-level enchantment
+					Casting Time: 1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw
+					Range: 60 feet
+					Components: V
+					Duration: Instantaneous
+					You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.
+					You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
+
+				Dissonant Whispers
+					1st-level enchantment
+					Casting Time: 1 action
+					Range: 60 feet
+					Components: V
+					Duration: Instantaneous
+					You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn't have to move away. A deafened creature automatically succeeds on the save.
+					At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+				
+				Cure Wounds
+					1st-level evocation
+					Casting Time: 1 action
+					Range: Touch
+					Components: V, S
+					Duration: Instantaneous
+					A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+					At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+			Level 2:
+
+				Heat Metal
+					2nd-level transmutation
+					Casting Time: 1 action
+					Range: 60 feet
+					Components: V, S, M (a piece of iron and a flame)
+					Duration: Concentration, up to 1 minute
+					Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+					If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
+					At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+
+				Invisibility
+					2nd-level illusion
+					Casting Time: 1 action
+					Range: Touch
+					Components: V, S, M (an eyelash encased in gum arabic)
+					Duration: Concentration, up to 1 hour
+					A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
+					At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+Equipment:
+
+	Pipes of Haunting
+		Wondrous item, Instrument, uncommon
+		Major tier
+		2 lb.
+		You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. If you wish, all creatures in the area that aren't hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these pipes for 24 hours. The pipes regain 1d3 expended charges daily at dawn.
+		If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+
+		

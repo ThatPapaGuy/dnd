@@ -1,0 +1,129 @@
+Name:
+
+Classes:
+	Oath of Devotion Paladin - 3
+Background:
+
+Appearance:
+
+Stats:
+	Str 12
+	Dex 14
+	Con 16
+	Int 11
+	Wis 10
+	Cha 18
+
+Languages:
+
+Race:
+	Dragonborn (Crystal) +1 +1 +1
+		Gem Ancestry. You have a gem dragon ancestor, granting you a special magical affinity (Radiant).
+		Breath Weapon. When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Gem Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+		You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+		Draconic Resistance. You have resistance to the damage type associated with your Gem Ancestry.
+		Psionic Mind. You can send telepathic messages to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.
+		Gem Flight. Starting at 5th level, you can use a bonus action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can't do so again until you finish a long rest.
+		Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
+
+Proficiencies:
+
+Class:
+	Oath of Devotion Paladin - 3
+		The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+
+		Divine Sense
+			The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.
+			You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+
+		Lay on Hands
+			Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.
+			As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
+			Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.
+			This feature has no effect on undead and constructs.
+
+		Divine Smite
+			Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend, to a maximum of 6d8.
+
+		Fighting Style
+			At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
+
+			Interception
+				When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+
+	Tenets of Devotion
+		Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets
+			Honesty. Don't lie or cheat. Let your word be your promise.
+			Courage. Never fear to act, though caution is wise.
+			Compassion. Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+			Honor. Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+			Duty. Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
+	Oath Spells
+		You gain oath spells at the paladin levels listed.
+			Paladin Level	Spells
+			3rd	protection from evil and good, sanctuary
+	Channel Divinity: Sacred Weapon
+		As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.
+		You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
+	Channel Divinity: Turn the Unholy
+		As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
+		A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+
+Feats
+
+Spells:
+	Cha 
+	Spell Slots (3):
+	
+	Bless
+		1st-level enchantment
+		Casting Time: 1 action
+		Range: 30 feet
+		Components: V, S, M (a sprinkling of holy water)
+		Duration: Concentration, up to 1 minute
+		You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+		At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+	Cure Wounds
+		1st-level evocation
+		Casting Time: 1 action
+		Range: Touch
+		Components: V, S
+		Duration: Instantaneous
+		A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+		At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+	Lesser Restoration
+		2nd-level abjuration
+		Casting Time: 1 action
+		Range: Touch
+		Components: V, S
+		Duration: Instantaneous
+		You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+
+	Bonus:
+		Sanctuary
+			1st-level abjuration
+			Casting Time: 1 bonus action
+			Range: 30 feet
+			Components: V, S, M (a small silver mirror)
+			Duration: 1 minute
+			You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a fireball.
+			If the warded creature makes an attack, casts a spell that affects an enemy, or deals damage to another creature, this
+		Protection from Evil and Good
+			1st-level abjuration
+			Casting Time: 1 action
+			Range: Touch
+			Components: V, S, M (holy water or powdered silver and iron, which the spell consumes)
+			Duration: Concentration, up to 10 minutes
+			Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
+			The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+
+Equipment:
+
+	Slumbering Dragon's Wrath Flail
+		Weapon, uncommon (requires attunement)
+		Martial weapon, melee weapon
+		2 lb.	1d8 bludgeoning
+		This weapon is decorated with dragon heads, claws, wings, scales, or Draconic letters. When it steeps in a dragon's hoard, it absorbs the energy of the dragon's breath weapon and deals damage of that type with its special properties.
+		Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon's breath weapon.
