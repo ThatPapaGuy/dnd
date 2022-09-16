@@ -141,3 +141,5 @@ Equipment:
 			The snake head can be attacked while it is animate. It has an Armor Class of 15 and 20 hit points. If the head drops to 0 hit points, the staff is destroyed. As long as it's not destroyed, the staff regains all lost hit points when it reverts to its inanimate form.
 			Versatile. This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
+    Warden Ring: 
+        When near a powerful magical force or monster, the ring will vibrate with radiant energy  maximum range being 100 meters.
