@@ -30,6 +30,11 @@ Stats:
 	Wis 12
 	Cha 18
 
+	AC: (15) 12 + 3 
+
+	HP: (22)
+	Hit Die: 3
+
 Languages:
 
 Race:
@@ -44,6 +49,22 @@ Race:
 		Languages. You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 
 Proficiencies:
+
+	Armor: 
+		light armor
+	Weapons: 
+		simple weapons
+		hand crossbows
+		longswords
+		rapiers
+		shortswords
+	Tools: 
+		three musical instruments of your choice
+	Saving Throws: 
+		Dexterity
+		Charisma
+	Skills:
+		Choose any 3.
 
 Spells & Class Features:
 
@@ -181,6 +202,16 @@ Equipment:
 		2 lb.
 		You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. If you wish, all creatures in the area that aren't hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these pipes for 24 hours. The pipes regain 1d3 expended charges daily at dawn.
 		If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+
+	Studded Leather Armor
+		Light armor
+		45 gp, 13 lb.	AC 12 + Dex
+		Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
+
+	Shield
+		Armor (shield)
+		10 gp, 6 lb.	AC + 2
+		A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
     Warden Ring: 
         When near a powerful magical force or monster, the ring will vibrate with radiant energy  maximum range being 100 meters.		
